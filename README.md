@@ -12,8 +12,8 @@
   <a href="https://github.com/LynxShu">
     <img alt="github" src="https://img.shields.io/badge/Github%20-%20LynxShu%20-%20%23006cff?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://qm.qq.com/q/xSXhxPUXHq">
-    <img alt="github" src="https://img.shields.io/badge/QQ交流群%20-%20773925842%20-%20%23006cff?style=flat-square&logo=qq&logoColor=white">
+  <a href="https://qm.qq.com/q/Pozpw3megE">
+    <img alt="github" src="https://img.shields.io/badge/QQ交流群%20-%20949643662%20-%20%23006cff?style=flat-square&logo=qq&logoColor=white">
   </a>
 </h1>
 <br>
@@ -27,6 +27,10 @@
 > 💡 目前我正在重新制作新的系列视频和提示词，可能现在会有点空，很快就会好起来哒！
 
 <h1>📚️ 我的内容分享系列</h1>
+
+<h2>🤖 大语言模型系列</h2>
+
+- TH-01 - 大语言模型应用指南：从核心概念到结构化指令工程 - [图文版](Course_Materials/AI/TH-01_大语言模型应用指南_从核心概念到结构化指令工程.md) | [视频版-BiliBili](https://www.bilibili.com/video/BV1CG2dByEzE/) | [视频版-Youtube](https://youtu.be/t0EV2CR18bg)
 
 <h2>👼 SillyTavern | 酒馆 - 纯享版保姆级分享课</h2>
 
