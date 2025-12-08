@@ -30,7 +30,7 @@
 
 <h2>🤖 大语言模型系列</h2>
 
-- TH-01 - 大语言模型应用指南：从核心概念到结构化指令工程 - [图文版](Course_Materials/AI/TH-01_大语言模型应用指南_从核心概念到结构化指令工程.md) | [视频版-BiliBili](https://www.bilibili.com/video/BV1CG2dByEzE/) | [视频版-Youtube](https://youtu.be/t0EV2CR18bg)
+- TH-01 - 大语言模型应用指南：从核心概念到结构化指令工程 - [图文版](Course_Materials/LLM/TH-01_大语言模型应用指南_从核心概念到结构化指令工程.md) | [视频版-BiliBili](https://www.bilibili.com/video/BV1CG2dByEzE/) | [视频版-Youtube](https://youtu.be/t0EV2CR18bg)
 
 <h2>👼 SillyTavern | 酒馆 - 纯享版保姆级分享课</h2>
 
