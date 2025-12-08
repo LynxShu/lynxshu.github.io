@@ -18,14 +18,14 @@
 > 25.08.07 基于 13.2 版本修正 config.yaml 的说明 
 
 
-<h1 align="center">S01E03 SillyTavern 的功能与详解</h1>
+<h1 align="center">ST-01 SillyTavern前端功能与配置文件详解</h1>
 
-现在，让我们正式介绍 SillyTavern 的用户界面。整个界面信息量很大，让我们先从顶部的核心区域来逐一认识。
+让我们介绍一下 SillyTavern 的用户界面。整个界面信息量很大，我们先从顶部的核心区域来逐一认识。
 
 <h2 align="center">Part.1 前端界面：你的指挥中心</h2>
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_03.png">
+<img alt="ui" src="assets/img/st-01/ui_03.png">
 </div>
 
 这是 SillyTavern 的“常用菜单栏”，从左到右依次是：
@@ -49,7 +49,7 @@
 
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_04.png">
+<img alt="ui" src="assets/img/st-01/ui_04.png">
 <p>API 响应配置 的 UI界面</p>
 </div>
 
@@ -151,7 +151,7 @@
 
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_05.png">
+<img alt="ui" src="assets/img/st-01/ui_05.png">
 <p>API 连接 的 UI界面</p>
 </div>
 
@@ -240,7 +240,7 @@
 
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_06.png">
+<img alt="ui" src="assets/img/st-01/ui_06.png">
 <p>高级格式化设置 的 UI界面</p>
 </div>
 
@@ -306,7 +306,7 @@
 
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_07.png">
+<img alt="ui" src="assets/img/st-01/ui_07.png">
 <p>世界/知识书 的 UI界面</p>
 </div>
 
@@ -476,7 +476,7 @@
 
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_12.png">
+<img alt="ui" src="assets/img/st-01/ui_12.png">
 <p>用户设置 的 UI界面</p>
 </div>
 
@@ -582,7 +582,7 @@ STscript 设置 (STscript Settings)：
 > 📚 小课堂 `严格转义` 和 `替换GETVAR` 见视频版 
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_08.png">
+<img alt="ui" src="assets/img/st-01/ui_08.png">
 <p>扩展 的 UI界面</p>
 </div>
 
@@ -591,7 +591,7 @@ STscript 设置 (STscript Settings)：
 先来看顶部右上角的图标：
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_10.png">
+<img alt="ui" src="assets/img/st-01/ui_10.png">
 <p>管理扩展 的 UI界面</p>
 </div>
 
@@ -599,7 +599,7 @@ STscript 设置 (STscript Settings)：
 功能：这是管理所有已安装扩展的核心界面。在这里，您可以启用（打勾）或禁用（取消打勾）扩展，以及更新它们。
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_09.png">
+<img alt="ui" src="assets/img/st-01/ui_09.png">
 <p>安装扩展 的 UI界面</p>
 </div>
 
@@ -622,7 +622,7 @@ STscript 设置 (STscript Settings)：
 > 📚 小课堂 `自动构建正则` 见视频版 
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_11.png">
+<img alt="ui" src="assets/img/st-01/ui_11.png">
 <p>用户角色管理 的 UI界面</p>
 </div>
 
@@ -675,12 +675,12 @@ STscript 设置 (STscript Settings)：
 ---
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_13.png">
+<img alt="ui" src="assets/img/st-01/ui_13.png">
 <p>菜单栏 的 UI界面</p>
 </div>
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_15.png">
+<img alt="ui" src="assets/img/st-01/ui_15.png">
 <p>作者注释 的 UI界面</p>
 </div>
 
@@ -728,7 +728,7 @@ STscript 设置 (STscript Settings)：
 
 
 <div style="text-align:center">
-<img alt="ui" src="assets/img/s01e03/ui_16.png">
+<img alt="ui" src="assets/img/st-01/ui_16.png">
 <p>CFG 的 UI界面</p>
 </div>
 
@@ -781,6 +781,8 @@ CFG提供了三个层级的配置，优先级从低到高：
 ---
 
 <h2 align="center">Part.2 深入后台：了解 config.yaml</h2>
+
+> **💡详细配置文件>>>** [《SillyTavern配置文件config.yaml说明文档》.pdf](docs/SillyTavern配置文件_config.yaml_说明文档.pdf)
 
 在你成功体验了 SillyTavern 的核心乐趣后，如果你想进行一些界面上无法完成的高级设置，那么是时候了解一下它的“神经中枢”——配置文件了。
 

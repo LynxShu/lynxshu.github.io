@@ -34,17 +34,14 @@
 
 <h2>👼 SillyTavern | 酒馆 - 纯享版保姆级分享课</h2>
 
-- S01E01 - SillyTavern 的简介与安装 - [图文版](Course_Materials/SillyTavern纯享版保姆级分享课/S01E01%20-%20SillyTavern%20的简介与安装.md) | [视频版](https://www.bilibili.com/video/BV1rwhAzqEBY)
+- ST-01 - SillyTavern前端功能与配置文件详解 - [图文版](Course_Materials/SillyTavern/ST-01_SillyTavern前端功能与配置文件详解.md) | [视频版-BiliBili](https://www.bilibili.com/video/BV1tjh7zWEtW/) | [视频版-Youtube](https://youtu.be/t0EV2CR18bg)
+  - **💡详细配置文件 >>>** [《SillyTavern配置文件config.yaml说明文档》.pdf](docs/SillyTavern配置文件_config.yaml_说明文档.pdf)
 
-- S01E02 - SillyTavern 的配置与使用 - [图文版](Course_Materials/SillyTavern纯享版保姆级分享课/S01E02%20-%20SillyTavern%20的配置与使用.md) | [视频版](https://www.bilibili.com/video/BV1JNhAzvEuM)
+- ST-02 - 从零开始编写你自己的预设-附演示预设  - 图文版 | 视频版
 
-- S01E03 - SillyTavern 的界面与详解 - [图文版](Course_Materials/SillyTavern纯享版保姆级分享课/S01E03%20-%20SillyTavern%20的界面与详解.md) | [视频版](https://www.bilibili.com/video/BV1tjh7zWEtW)
+- ST-03 - 从零开始手搓简单文字变量角色卡-附提示词 - 图文版 | 视频版
 
-- S01E04 - 从零开始编写你自己的预设-附演示预设  - 图文版 | 视频版
-
-- S01E05 - 从零开始手搓简单文字变量角色卡-附提示词 - 图文版 | 视频版
-
-- S01E06 - 从零开始手搓 SAM 变量角色卡-附提示词 - 图文版 | 视频版
+- ST-04 - 从零开始手搓 SAM 变量角色卡-附提示词 - 图文版 | 视频版
 
 
 <h2>🧠 AI的脑子里在想些什么</h2>
