@@ -35,7 +35,7 @@
 <h2>👼 SillyTavern | 酒馆 - 纯享版保姆级分享课</h2>
 
 - ST-01 - SillyTavern前端功能与配置文件详解 - [图文版](Course_Materials/SillyTavern/ST-01_SillyTavern前端功能与配置文件详解.md) | [视频版-BiliBili](https://www.bilibili.com/video/BV1tjh7zWEtW/) | [视频版-Youtube](https://youtu.be/t0EV2CR18bg)
-  - **💡详细配置文件 >>>** [《SillyTavern配置文件config.yaml说明文档》.pdf](docs/SillyTavern配置文件_config.yaml_说明文档.pdf)
+  - **💡详细配置文件 >>>** [《SillyTavern配置文件config.yaml说明文档》.pdf](Course_Materials/SillyTavern/docs/SillyTavern配置文件_config.yaml_说明文档.pdf)
 
 - ST-02 - 从零开始编写你自己的预设-附演示预设  - 图文版 | 视频版
 
