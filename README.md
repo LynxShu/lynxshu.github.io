@@ -1,9 +1,9 @@
 <h1 align="center">
-  <a href="https://github.com/LynxShu/lynxshu.cntwsp">
+  <a href="https://github.com/LynxShu/lynxshu.github.io">
     <img alt="LynxShu" src="assets/img/logo_github.png?raw=true" width="400" height="178">
   </a>
   <br>
-  <a href="https://github.com/LynxShu/lynxshu.cntwsp/blob/main/LICENSE">
+  <a href="https://github.com/LynxShu/lynxshu.github.io/blob/main/LICENSE">
     <img alt="license" src="https://img.shields.io/badge/License%20-%20CC--BY--NC--SA%204.0-%20%23006cff?style=flat-square&logo=creativecommons&logoColor=white">
   </a> 
   <a href="https://space.bilibili.com/582462">
